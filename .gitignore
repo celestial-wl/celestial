@@ -1,0 +1,5 @@
+celestial
+*.o
+*-protocol.c
+*-protocol.h
+config.h

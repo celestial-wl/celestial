@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Celestial
+Comment=Celestial Wayland Compositor
+Exec=celestial
+Type=Application
